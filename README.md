@@ -31,6 +31,7 @@ shanqiu-writer/
 │   ├── voice.md
 │   ├── article-archetypes.md
 │   ├── editorial-rhythm.md
+│   ├── headline.md
 │   ├── humor.md
 │   ├── anti-ai.md
 │   ├── visual-writing.md
@@ -54,4 +55,4 @@ shanqiu-writer/
 
 ## 当前版本
 
-v0.1.0
+v0.1.1

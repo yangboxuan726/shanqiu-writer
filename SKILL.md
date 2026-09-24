@@ -96,6 +96,12 @@ description: Write, restructure, edit, and review Chinese long-form content in t
 
 正文不能连续多屏只有同一种介质。
 
+每次进入价格、Benchmark、另一个模型、第三方案例或技术解释前，都要先回答：
+
+> 为什么读者现在正好想看这个？
+
+不要靠“下面介绍”“接下来看看”硬切。让上一段自然制造出下一段的问题。
+
 ### Step 4 — 写第一屏
 
 第一屏通常要尽快出现：
@@ -157,7 +163,17 @@ description: Write, restructure, edit, and review Chinese long-form content in t
 判断标准不是字数，而是：
 > 读者继续往下滑，下一屏有没有新东西？
 
-## 5. Humor and liveliness
+## 5. Headlines and section titles
+
+标题不是摘要，也不是正文目录。
+
+详见 `references/headline.md`。
+
+主标题负责给人一个点进去的理由，优先从真实的反差、数字、冲突、荒诞感、个人反应或悬念里找。
+
+正文小标题仍然可以有，但不要全部写成 PPT 式总结。有些逻辑切换直接用自然过渡句更顺。
+
+## 6. Humor and liveliness
 
 详见 `references/humor.md`。
 
@@ -173,7 +189,7 @@ description: Write, restructure, edit, and review Chinese long-form content in t
 
 不要为了“像活人”机械塞这些词。
 
-## 6. Images are evidence
+## 7. Images are evidence
 
 图片不是装饰。
 
@@ -195,7 +211,7 @@ description: Write, restructure, edit, and review Chinese long-form content in t
 
 详见 `references/visual-writing.md`。
 
-## 7. Source boundaries
+## 8. Source boundaries
 
 严格区分：
 - 官方说法；
@@ -211,7 +227,7 @@ description: Write, restructure, edit, and review Chinese long-form content in t
 
 详见 `references/source-policy.md`。
 
-## 8. What counts as AI smell
+## 9. What counts as AI smell
 
 详见 `references/anti-ai.md`。
 
@@ -227,7 +243,7 @@ description: Write, restructure, edit, and review Chinese long-form content in t
 - 明明一张图能说明却写 300 字；
 - 为了显得全面，把所有 benchmark 都塞进来。
 
-## 9. Ending
+## 10. Ending
 
 不固定一种结尾。
 
@@ -242,7 +258,7 @@ description: Write, restructure, edit, and review Chinese long-form content in t
 
 “点赞、在看、转发”不是默认必加。
 
-## 10. Default output behavior
+## 11. Default output behavior
 
 ### 用户要从零写文章
 先给：
@@ -264,9 +280,15 @@ description: Write, restructure, edit, and review Chinese long-form content in t
 再给重写版。
 
 ### 用户只要标题
-标题必须从正文真实可证明的冲突里来，不做标题党。
+不要只给 1 个“内容概括型标题”。
 
-## 11. Final self-check
+先从正文提取真正有张力的事实，再给一组不同方向候选：事件型、情绪型、冲突 / 反差型、稳妥型。
+
+标题必须有正文支撑，但不负责总结全文。
+
+如果需要封面，再额外给一个更短的封面标题。主标题、封面标题、正文小标题是三套不同任务。
+
+## 12. Final self-check
 
 交稿前静默检查：
 
@@ -276,6 +298,11 @@ description: Write, restructure, edit, and review Chinese long-form content in t
 - 是否连续 3 段以上没有新事实/例子/判断？
 - 有没有一段删掉也不影响理解？有就删。
 - 有没有把图片已经说明的内容又解释一遍？
+- 复杂图表出现前，有没有告诉普通读者“只需要看哪里”？
+- 中段连续出现数据、图表、官方材料时，“山丘本人”是不是消失太久？
+- 新模块出现时，有没有回答“为什么现在要讲它”？
+- 正文小标题是不是全都在做目录式总结？
+- 主标题是不是只是在概括文章内容？
 - 有没有为了完整塞无关背景？
 - 有没有硬塞幽默？
 - 有没有因为怕得罪而把明确判断磨平？
