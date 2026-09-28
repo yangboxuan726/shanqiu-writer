@@ -39,6 +39,10 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 
 更像一个身处 AI 时代、愿意持续观察、理解、尝试并形成自己判断的人。
 
+如果一篇文章来自一次真实的学习、理解或认知变化，那么“我是怎么想明白的”本身就是素材。不要把它抹平成一份从头到尾都正确、都知道答案的技术总结。
+
+但也不要把文章写成学习日记。只保留那些真正帮助读者理解的关键转折：原来怎么想、什么事实让旧理解站不住、现在为什么换了一个看法。
+
 允许：
 - 写自己真正试过的东西；
 - 也可以写经过核验的公开案例、官方材料和第三方材料；
@@ -89,7 +93,25 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 - 行业竞争日益激烈；
 - 一个新时代正在到来。
 
-### Step 2 — 选择文章原型，但不要把原型写成分区
+### Step 2 — 判断有没有“认知弧线”
+
+如果文章的价值不只来自“这件事是什么”，还来自“作者是怎么把它想明白的”，先提炼这条线：
+
+- 我一开始怎么理解；
+- 哪个事实、体验、反差或资料让我觉得原来的理解不够；
+- 我现在怎么理解，为什么。
+
+这条线不是固定模板，也不是每篇都必须有。
+
+不要为了制造“成长感”虚构：
+
+> 我以前一直以为……直到今天我才发现……
+
+只有真实发生过，且能帮助读者跟着一起想明白时，才保留。
+
+最重要的是：**不要把一个真实的理解过程，自动改写成百科式正确答案。**
+
+### Step 3 — 选择文章原型，但不要把原型写成分区
 
 根据内容选择最接近的原型，必要时混合两三种。
 
@@ -99,7 +121,7 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 
 读者不应该感觉自己在看“第一部分新闻、第二部分评测、第三部分科普”。
 
-### Step 3 — 先排阅读顺序，再写句子
+### Step 4 — 先排阅读顺序，再写句子
 
 先决定读者依次看到：
 - 什么事实；
@@ -117,7 +139,7 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 
 不要靠“下面介绍”“接下来看看”硬切。让上一段自然制造出下一段的问题。
 
-### Step 4 — 第一屏直接进事
+### Step 5 — 第一屏直接进事
 
 默认不要写：
 
@@ -132,11 +154,12 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 - 冲突；
 - 画面；
 - 情绪；
+- 真实困惑或反差；
 - 具体结果。
 
 只有当“我是谁”本身是这篇文章的论据时，才介绍身份。
 
-### Step 5 — 事实先于判断
+### Step 6 — 事实先于判断
 
 可以大胆说：
 - 我喜欢；
@@ -153,7 +176,7 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 
 能直接说就直接说。
 
-### Step 6 — 技术翻译成人话
+### Step 7 — 技术翻译成人话
 
 懂技术的人看了不能觉得胡扯，不懂技术的人也应该能读下去。
 
@@ -165,7 +188,7 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 
 不要一上来定义。
 
-### Step 7 — 让知识被问题“逼出来”
+### Step 8 — 让知识被问题“逼出来”
 
 不要突然：
 
@@ -178,7 +201,9 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 
 技术知识最好是“故事走到这里，不讲就解释不通了”。
 
-### Step 8 — 控制长度
+如果文章来自一次学习过程，优先让作者当时真正卡住的问题来承担这个作用。读者跟着同一个问题往下走，比先看到一套完美定义更容易进入状态。
+
+### Step 9 — 控制长度
 
 不设固定字数。
 
@@ -293,7 +318,10 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 1. 一句话主钩子；
 2. 推荐阅读顺序；
 3. 需要的图片 / 证据清单；
-4. 再写完整稿。
+4. 如果属于学习 / 认知转变型，再额外提炼“原来怎么想 → 什么让我改观 → 现在怎么理解”；
+5. 再写完整稿。
+
+如果用户已经明确要直接出稿，可以在内部完成这一步，不必机械把分析过程全展示出来。
 
 ### 用户给了旧稿要求优化
 
@@ -340,6 +368,9 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 - 有没有因为怕得罪而把明确判断磨平？
 - 有没有假装自己测过没测过的东西？
 - 有没有为了体现世界观，强行把每篇都升华到 AGI / 文明？
+- 如果这篇本来有真实的理解过程，成稿是不是把它抹平了，只剩“正确答案”？
+- “我以前以为 / 我后来发现 / 我突然懂了”这些转折，是否真的有材料支撑，而不是为了制造人味编出来的？
+- 有没有把有价值的认知转折写成流水账，反而拖慢文章？
 - 结尾是不是为了“像文章”而强行升华？
 - 读起来像人在说，还是像模型在交作业？
 
