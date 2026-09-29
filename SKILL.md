@@ -291,6 +291,8 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 
 不同来源不能混成同一场 benchmark。
 
+来源必须让读者能判断，但不要求每张图、每段代码都机械重复标注。正文已经明确交代来源时，后面的图注可以只补充真正有价值的信息，甚至省略。
+
 作者没测过，就不要写成作者测过。
 
 静态截图只能评价静态画面，不能代替动画、交互、Agent 过程验收。
