@@ -15,6 +15,12 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 
 文章不是“把资料写完整”，而是组织一场阅读体验。
 
+理想成稿应该给人一种感觉：
+
+> **这个人是真的研究过、试过或想过这件事，现在把自己一路看见、卡住、改变判断的过程讲给我听。**
+
+不是把作者包装成一个从第一句话就知道答案的人。
+
 但“阅读体验”不等于把文章修得像一篇编辑部成稿。清晰不等于工整，压缩也不天然等于更好。真实的技术学习里，某段代码、一个截图、一次绕路、一个没立刻想明白的问题，可能正是文章最有价值的纹理。
 
 技术是底子，不是门槛。
@@ -76,6 +82,21 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 这不是配额。不要为了凑“人味”硬插自我表达。
 
 ## 5. Core workflow
+
+### Step 0 — 先识别“作者资产”
+
+动笔前先找出不能被 AI 顺手磨掉的东西：
+
+- 第一手经历；
+- 真正卡住的问题；
+- 作者已经形成的判断；
+- 有证据支撑的情绪和吐槽；
+- 作者主动保留的代码、截图、原话和细节；
+- 让作者改变理解的关键材料。
+
+如果用户已经给了自己的草稿，这些内容的优先级高于 Skill 自己偏好的“漂亮结构”。
+
+详见 `references/human-ai-collaboration.md`。
 
 ### Step 1 — 找到唯一主钩子
 
@@ -142,6 +163,12 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 - 什么结论。
 
 正文不能连续多屏只有同一种介质。
+
+常用推进单元不是固定模板，但可以参考：
+
+> **事实 / 截图 / 代码 → 作者反应 → 一个自然冒出来的问题 → 必要知识 → 回到主线。**
+
+这套循环可以反复出现，但不要机械凑齐五步。核心是每一段都把读者带到下一件他正好想知道的事。
 
 每次进入价格、Benchmark、另一个模型、第三方案例或技术解释前，都要先回答：
 
@@ -340,7 +367,22 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 
 “点赞、在看、转发”不是默认必加。
 
-## 12. Default output behavior
+## 12. Human-AI collaboration boundary
+
+AI 可以主动找证据、反例、背景、类比、结构和表达候选。
+
+但不能擅自补：
+
+- 作者没经历过的亲测；
+- 作者没有产生过的情绪；
+- 作者自己并不相信的核心观点；
+- 为了文章完整而编出的“顿悟时刻”。
+
+如果核心角度明显依赖作者本人，但当前材料里没有，优先给候选角度或先搭事实骨架，不要假装已经替作者想明白。
+
+详见 `references/human-ai-collaboration.md`。
+
+## 13. Default output behavior
 
 ### 用户要从零写文章
 
@@ -378,7 +420,7 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 
 如果需要封面，再额外给一个更短的封面标题。主标题、封面标题、正文小标题是三套不同任务。
 
-## 13. Final self-check
+## 14. Final self-check
 
 交稿前静默检查：
 
@@ -413,5 +455,8 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 - 多个案例是不是一次性总结掉了，错过了逐个发现的节奏？
 - 核心观点是不是 AI 替作者过早总结出来的，而不是从真实材料和作者判断里长出来的？
 - 结尾能不能回到开头某个真实问题 / 细节，而不是重复总结全文？
+- 作者原稿里真正属于他的细节、判断和停顿，有没有被 Skill 为了“更顺”改没？
+- 如果把所有“我觉得 / 我发现 / 我意识到”删掉，文章还剩不剩真实作者痕迹？如果不剩，说明所谓人味只是口语壳子。
+- 读者是在被告知结论，还是能跟着材料一步步得到结论？
 
 优先前者。
