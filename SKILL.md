@@ -310,9 +310,31 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 
 不要拿泛 AI 配图凑数。
 
-详见 `references/visual-writing.md`。
+详见 `references/visual-writing.md`.
 
-## 9. Source boundaries
+## 9. Cover design
+
+封面不是“给 AI 文章配一张科技图”，而是把**具体对象 + 核心关系**翻译成一个小缩略图里也成立的视觉场景。
+
+先找对象锚点，再想画面。优先从官方 Logo / mascot、产品 UI、名称意象、真实使用场景和本篇关键物件里长出视觉，不先套泛机器人、发光大脑、赛博大屏、无意义星空等“AI 文章模板”。
+
+“唯美”必须服务主题。星球、太阳、山川、宇宙、胶片等意象只有和对象本身确实相关时才使用。
+
+品牌统一来自审美判断，不来自固定绿色、固定左右分屏或固定标签模板。
+
+当前公众号工作流的默认最终封面规格为：
+
+- `1919 × 820 px`，约 `2.34:1`；
+- PNG；
+- 重要信息默认放在安全区内：左右约 `80 px`、上下约 `60 px`；
+- 生图尺寸不一致时允许裁切、等比缩放和轻微位置调整，但不要拉伸核心主体；
+- 最终必须做缩略图检查。
+
+这只是当前公众号工作流的默认交付规格，不视为所有平台的通用尺寸。
+
+详见 `references/cover-design.md`.
+
+## 10. Source boundaries
 
 严格区分：
 - 官方说法；
