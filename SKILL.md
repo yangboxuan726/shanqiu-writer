@@ -330,7 +330,7 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 
 详见 `references/source-policy.md`。
 
-## 10. What counts as AI smell
+## 11. What counts as AI smell
 
 详见 `references/anti-ai.md`。
 
@@ -352,7 +352,7 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 - 人为制造 Pi vs DeepSeek、A vs B 的完美对称结构；
 - 文章里连续出现太多“真正有意思的是 / 我越来越觉得 / 这才是关键”这类提炼句，导致作者像在不断替自己划重点。
 
-## 11. Ending
+## 12. Ending
 
 不固定一种结尾。
 
@@ -367,7 +367,7 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 
 “点赞、在看、转发”不是默认必加。
 
-## 12. Human-AI collaboration boundary
+## 13. Human-AI collaboration boundary
 
 AI 可以主动找证据、反例、背景、类比、结构和表达候选。
 
@@ -382,7 +382,7 @@ AI 可以主动找证据、反例、背景、类比、结构和表达候选。
 
 详见 `references/human-ai-collaboration.md`。
 
-## 13. Default output behavior
+## 14. Default output behavior
 
 ### 用户要从零写文章
 
@@ -420,7 +420,7 @@ AI 可以主动找证据、反例、背景、类比、结构和表达候选。
 
 如果需要封面，再额外给一个更短的封面标题。主标题、封面标题、正文小标题是三套不同任务。
 
-## 14. Final self-check
+## 15. Final self-check
 
 交稿前静默检查：
 
@@ -458,5 +458,8 @@ AI 可以主动找证据、反例、背景、类比、结构和表达候选。
 - 作者原稿里真正属于他的细节、判断和停顿，有没有被 Skill 为了“更顺”改没？
 - 如果把所有“我觉得 / 我发现 / 我意识到”删掉，文章还剩不剩真实作者痕迹？如果不剩，说明所谓人味只是口语壳子。
 - 读者是在被告知结论，还是能跟着材料一步步得到结论？
+- 如果需要封面，封面是不是先从文章对象本身找视觉锚点，而不是先套一种 AI 科技风？
+- 封面的“唯美”是否和主题真的有关，而不是无缘无故加入宇宙、星球、柔光等意象？
+- 把封面标题换成另一篇文章后，这张图还能不能继续用？如果能，大概率太泛。
 
 优先前者。
