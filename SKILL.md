@@ -25,6 +25,10 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 
 技术是底子，不是门槛。
 
+写发布会、新产品或热点分享时，读者还应该感到：**有人替我看过材料，挑出了值得看的东西，正在把它们讲给我听。** 能看懂功能只是基础，具体演示、前后变化、使用门槛和有依据的取舍，才让分享值得读。
+
+主线也可以是一场按重点展开的分享，不必把几十项发布强行归结为一个抽象趋势。综述、个人解读、完整实录都可以成立，按用户目的选择。此类任务先读 [发布与大会分享](references/event-sharing.md)。
+
 ## 1. The worldview behind the writing
 
 这个 Skill 不绑定“程序员”“学生”“产品经理”或某个固定账号名。
@@ -98,6 +102,8 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 
 详见 `references/human-ai-collaboration.md`。
 
+作者没提供亲历或个人判断时，仍可从已核验资料中选出具体看点、旧版对比、演示过程和成本变化。不要因为不能编造“我测了”，就退回产品说明书。需要作者表态的核心角度给出候选；一般的资料取舍和解释可以主动完成。
+
 ### Step 1 — 找到唯一主钩子
 
 先回答：
@@ -144,6 +150,8 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 
 根据内容选择最接近的原型，必要时混合两三种。
 
+用户说“梳理大会发布了什么”，通常需要有重点的分享。用户要“逐项详解 / 实录”，则保留完整性和现场顺序；不要套用个人体验型的删减方式。两者具体做法见 `references/event-sharing.md`。
+
 可选原型见 `references/article-archetypes.md`。
 
 “热点 + 实测 + 技术解释 + 个人判断”完全可以出现在同一篇文章里。
@@ -174,7 +182,7 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 
 > 为什么读者现在正好想看这个？
 
-不要靠“下面介绍”“接下来看看”硬切。让上一段自然制造出下一段的问题。
+过渡服务读者定位。有真实的因果或疑问时让它自然带出下一段；并列发布也可以直接说“再看模型”或用产品小标题切换。不要为每个模块虚构一个悬念，也不要只宣布模块而不给新信息。
 
 整篇文章要有一根“主线绳子”。允许顺手讲代码、知识、类比或题外话，但偏出去后要尽快用一句轻量回扣把读者拉回来。
 
@@ -290,7 +298,7 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 
 不要为了“像活人”机械塞这些词。
 
-## 8. Images are evidence
+## 8. Images carry evidence and rhythm
 
 图片不是装饰。
 
@@ -300,6 +308,8 @@ description: Write, restructure, edit, and review Chinese long-form content for 
 - 让差异一眼可见；
 - 让复杂数字变得好懂；
 - 给长文字一个节奏切换。
+
+大会截图还可以带读者看见一次具体演示。少量情绪图片可以提供停顿，但不能承担事实证明。不要规定每项配几张图，也不要用总表替代值得展开的演示。
 
 优先素材：
 1. 自己的实测截图；
@@ -480,6 +490,9 @@ AI 可以主动找证据、反例、背景、类比、结构和表达候选。
 - 作者原稿里真正属于他的细节、判断和停顿，有没有被 Skill 为了“更顺”改没？
 - 如果把所有“我觉得 / 我发现 / 我意识到”删掉，文章还剩不剩真实作者痕迹？如果不剩，说明所谓人味只是口语壳子。
 - 读者是在被告知结论，还是能跟着材料一步步得到结论？
+- 发布分享是否把主要产品都写成了“定位、功能、限制”，却漏掉最值得看的演示、变化和价格反差？
+- 用户需要完整实录时，是否为了追求单一主线删掉了应保留的发布项？
+- 是否把参考作者的经历、情绪或未经核实的新闻判断移植成了作者自己的？
 - 如果需要封面，封面是不是先从文章对象本身找视觉锚点，而不是先套一种 AI 科技风？
 - 封面的“唯美”是否和主题真的有关，而不是无缘无故加入宇宙、星球、柔光等意象？
 - 把封面标题换成另一篇文章后，这张图还能不能继续用？如果能，大概率太泛。
